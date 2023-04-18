@@ -1,4 +1,4 @@
-# MBF (ICML 2022)
+# MBF 
 
 ## Specification of dependencies
 
